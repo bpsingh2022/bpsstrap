@@ -1,7 +1,7 @@
 {
-  "name": "inputbox",
+  "name": "bpsstrap",
   "version": "1.0.0",
-  "description": "react input for bpsingh",
+  "description": "bootstrap version 4 for react components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/bpsingh2022/inputbox.git"
   },
-  "keywords": ["html","input","element"],
+  "keywords": [
+    "html",
+    "element",
+    "css"
+  ],
   "author": "bpsingh",
   "license": "ISC",
   "bugs": {
