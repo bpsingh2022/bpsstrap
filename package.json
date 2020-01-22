@@ -1,0 +1,20 @@
+{
+  "name": "inputbox",
+  "version": "1.0.0",
+  "description": "react input for bpsingh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpsingh2022/inputbox.git"
+  },
+  "keywords": ["html","input","element"],
+  "author": "bpsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpsingh2022/inputbox/issues"
+  },
+  "homepage": "https://github.com/bpsingh2022/inputbox#readme"
+}
