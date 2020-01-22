@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bpsingh2022/inputbox.git"
+    "url": "git+https://github.com/bpsingh2022/bpsstrap.git"
   },
   "keywords": [
     "html",
@@ -19,7 +19,7 @@
   "author": "bpsingh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bpsingh2022/inputbox/issues"
+    "url": "https://github.com/bpsingh2022/bpsstrap/issues"
   },
-  "homepage": "https://github.com/bpsingh2022/inputbox#readme"
+  "homepage": "https://github.com/bpsingh2022/bpsstrap#readme"
 }
